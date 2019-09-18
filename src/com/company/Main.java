@@ -6,5 +6,6 @@ public class Main {
 //        System.out.print();
         int age = 10;
         System.out.print(age);
+        System.out.print(age);
     }
 }
