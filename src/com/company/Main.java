@@ -7,7 +7,12 @@ public class Main {
         int age = 10;
         age = age + 33;
         System.out.print(age);
-        
+        System.out.print(age);
+        System.out.print(age);
+        System.out.print(age);
+        System.out.print(age);
+        System.out.print(age);
+
         System.out.println(9999);
 //
     }
